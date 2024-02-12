@@ -154,7 +154,7 @@
   prerequisites: |
     Открыта страница магазина
   test-data: |
-    From = 0 To = 1750
+    From = 0 To = 12
     steps:
     - Вводим показатели в фильтр "Price"
   expected-result: |
